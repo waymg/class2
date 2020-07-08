@@ -1,2 +1,1 @@
-# class2
-UConn Bootcamp Coding first project
+A random password generator using JavaScript
